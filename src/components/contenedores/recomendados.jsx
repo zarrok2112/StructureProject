@@ -1,0 +1,1 @@
+//carta y previsualizacion de los otros perfiles recomendados

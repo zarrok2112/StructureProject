@@ -1,0 +1,1 @@
+/// aca se imprime los comentarios con detalle
