@@ -1,0 +1,1 @@
+// todos los querys para mostrar informacion
