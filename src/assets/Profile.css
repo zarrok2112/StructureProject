@@ -1,0 +1,30 @@
+.profile {
+    display: flex !important ;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 50px;
+  }
+  
+  .profile-picture {
+    border-radius: 50% !important;
+    margin-right: 50px !important;
+    overflow: hidden !important;
+    width: 200px !important;
+    height: 200px !important;
+  }
+  
+  .profile-picture-img {
+    width: 100% !important;
+    height: auto !important;
+  }
+  
+  .profile-name {
+    font-size: 3rem !important;
+    margin-bottom: 20px !important;
+  }
+  
+  .profile-bio {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
