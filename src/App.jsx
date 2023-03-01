@@ -19,10 +19,11 @@ function App() {
 
   return (
     <div className="App">
-      <div><Navigator/></div>
-      <div><RouterProvider router={router} /></div>
-      
+      <div className="nav_main"><Navigator/></div>
+      <div></div>
+      <div className="contenido_main"><RouterProvider router={router} /></div>
     </div>
+     
   )
 }
 

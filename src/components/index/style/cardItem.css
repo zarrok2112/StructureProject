@@ -1,0 +1,10 @@
+.carta {
+    float: center !important;
+    width: '250px' !important;
+    height: '250px' !important;
+    border-radius: '50%' !important;
+    background-color: '#7a6798' !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
